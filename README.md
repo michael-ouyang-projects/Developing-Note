@@ -12,8 +12,8 @@
 * HTML/CSS/Javascript
 #### Loose coupling
 * Encapsulation
-	* Setter (do some check)
-	* Provide functions, not objects (API)
-	* Factory method pattern (creation code) => IoC/DI
+	* Setter (encapsulate check code)
+	* Provide functions, not just objects (API)
+	* Factory method pattern (encapsulate creation code) => IoC/DI
 * Polymorphism (xml configuration)
 	* Abstraction/Depending on Interface

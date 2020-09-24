@@ -3,8 +3,9 @@
 #### Don't repeat yourself
 * Inheritance 
 * Hepler/Utilities
-* Filter/Interceptor
-* AOP
+* Cross-cutting concern
+	* Filter/Interceptor
+	* AOP
 #### You aren't gonna need it
 #### Separation of concerns
 * Single responsibility

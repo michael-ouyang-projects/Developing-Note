@@ -14,7 +14,7 @@
 #### Loose coupling
 * Encapsulation
 	* Setter (encapsulate check code)
-	* Provide functions, not just objects (API)
+	* Provide functions, not just objects (encapsulate functions) (API)
 	* Factory method pattern (encapsulate creation code) => IoC/DI
 * Polymorphism (xml configuration)
 	* Abstraction/Depending on Interface

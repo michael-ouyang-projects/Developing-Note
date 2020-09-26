@@ -24,8 +24,9 @@
 	* Filter/Interceptor
 	* AOP
 #### You aren't gonna need it
+* Avoid Premature Optimization
 #### Separation of concerns
-* Single responsibility
+* Single Responsibility Principle
 * MVC
 * HTML/CSS/Javascript
 #### Loose coupling

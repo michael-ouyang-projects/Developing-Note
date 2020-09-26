@@ -1,6 +1,8 @@
 ## Developing Process
 #### Make it Work
-* Object Oriented Programming Concept (Interface, Class, Object, Method)
+* Object Oriented Programming Concept
+	* Interface, Class, Object, Method
+	* Encapsulation, Inheritance, Polymorphism
 * Conditional Statements (if-else, switch-case)
 * Loop (for, while, do-while, for-each, forEach)
 * Exception Handling
@@ -18,7 +20,7 @@
 #### Keep it simple, stupid
 * Better Naming Convention
 #### Don't repeat yourself
-* Inheritance 
+* Inheritance
 * Hepler/Utilities
 * Cross-cutting concern
 	* Filter/Interceptor

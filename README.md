@@ -12,6 +12,7 @@
 * Design Patterns
 #### Make it Fast
 * Concurrency
+#### Make it Lightweight
 * Non-Blocking
 
 ------------------------------------------------------------------------------

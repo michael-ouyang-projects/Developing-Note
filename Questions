@@ -1,0 +1,7 @@
+* What's the difference between JDK dynamic proxy and CGLIB proxy?
+
+* Why local variable statement defined in an enclosing scope must be final or effectively final?
+
+* What's the pros and cons of using static thread-pool (ForkJoinPool.commonPool())?
+
+* How to solve "Race Condition" and "Memory Visibility Problem"?

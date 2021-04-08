@@ -7,3 +7,5 @@
 * Describe "Race Condition" and "Memory Visibility Problem" and how to solve them?
 
 * What's the difference between REQUIRES_NEW and NESTED propagation?
+
+* What's the difference between Process and Light-Weight Process(Thread)?

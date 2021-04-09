@@ -9,3 +9,5 @@
 * What's the difference between REQUIRES_NEW and NESTED propagation?
 
 * What's the difference between Process and Light-Weight Process(Thread)?
+
+* Describe Synchronous/Asynchronous and Blocking/Non-Blocking.
